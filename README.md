@@ -1,2 +1,2 @@
 # BlackJack
-This is a BlackJack game built in python.
+This is a BlackJack game built with python.
